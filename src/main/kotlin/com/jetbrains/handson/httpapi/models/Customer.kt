@@ -1,4 +1,4 @@
-package models
+package com.jetbrains.handson.httpapi.models
 
 import kotlinx.serialization.Serializable
 
